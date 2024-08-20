@@ -1,6 +1,6 @@
 ### As Salamu 'Alaikum wa Rahmatullahi wa Barakatuh !
 
-- [x] **Skype:** [MD. SALMAN NUR](https://join.skype.com/invite/sqJ0E1MaecII)
+- [x] **Skype:** [MD. SALMAN NUR](https://join.skype.com/invite/xnLfukwiQfkP)
 - [x] **LinkedIn:** [MD. SALMAN NUR](https://www.linkedin.com/in/md-salman-nur)
 - [x] **Email:** [salman.nur.exe@gmail.com](mailto:salman.nur.exe@gmail.com)  
 
