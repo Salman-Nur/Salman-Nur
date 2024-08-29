@@ -9,6 +9,7 @@
 
 <code><img height="30" src="./logos/c.png" alt="C" title="C"></code>
 <code><img height="30" src="./logos/c++.png" alt="C++" title="C++"></code>
+<code><img height="30" src="./logos/fortran.png" alt="Fortran" title="Fortran"></code>
 <code><img height="30" src="https://ms-dotnettools.gallerycdn.vsassets.io/extensions/ms-dotnettools/csdevkit/1.2.5/1702583268260/Microsoft.VisualStudio.Services.Icons.Default" alt="C#" title="C#" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/DotNet.svg" alt=".NET" title=".NET" /></code>
 <code><img height="30" src="./logos/docker.png" alt="Docker" title="Docker"></code>
